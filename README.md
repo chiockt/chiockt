@@ -19,14 +19,16 @@
 
 <!-- Github related things -->
 <br>
+<div class="github-related-things">
 <h3 align="left">Stats:</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IchbinThomasss)](https://github.com/anuraghazra/github-readme-stats) &nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IchbinThomasss&show_icons=true&locale=en&layout=compact" alt="IchbinThomasss"/>
-<!-- Useful Links -->
+</div>
 <br>
+<!-- Useful Links -->
 <h3 align="center">Useful Links:</h3>
 <p align="center"><a href="https://thomaschiocchetti.de">Website</a> • <a href="mailto:info@thomaschiocchetti.de">E-Mail</a> • <a href="https://thomaschiocchetti.de/cv">Curriculum Vitae</a> • <a href="https://thomaschiocchetti.de/landing">Landing</a></p>
-<br>
+
 <!-- Collaborations -->
 <h3 align="center">Collaborations:</h3>
 <p align="center"><a href="https://digital-ladin.com">Digital Ladin&trade;</a> • <a href="https://sartoriatelierfc.com">Atelier Sartoriale Chiocchetti Federica</a> • <a href="https://tommasozanoner.eu">tommasozanoner.eu</a></p>
