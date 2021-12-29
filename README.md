@@ -7,3 +7,13 @@
 - ⚡ Interested about motorsports, web development, social media managing, IT managing, PR managing and work experiences in foreign countries.
 
 🌐 Discover more: https://thomaschiocchetti.de/landing
+
+--
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IchbinThomasss)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</details>
