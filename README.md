@@ -26,9 +26,11 @@
 </div>
 <br>
 <!-- Useful Links -->
+<div class="useful-links">
 <h3 align="center">Useful Links:</h3>
 <p align="center"><a href="https://thomaschiocchetti.de">Website</a> • <a href="mailto:info@thomaschiocchetti.de">E-Mail</a> • <a href="https://thomaschiocchetti.de/cv">Curriculum Vitae</a> • <a href="https://thomaschiocchetti.de/landing">Landing</a></p>
-
+</div>
+<br>
 <!-- Collaborations -->
 <h3 align="center">Collaborations:</h3>
 <p align="center"><a href="https://digital-ladin.com">Digital Ladin&trade;</a> • <a href="https://sartoriatelierfc.com">Atelier Sartoriale Chiocchetti Federica</a> • <a href="https://tommasozanoner.eu">tommasozanoner.eu</a></p>
