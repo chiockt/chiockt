@@ -8,7 +8,7 @@
 - 💼 Digital PR Manager, Social Media Manager and Web Developer as volunteer at <a href="https://sartoriatelierfc.com">Atelier Sartoriale Chiocchetti Federica</a>.
 - ⚡ Interested about motorsports, web development, social media management, IT management, PR management and work experiences in foreign countries.
 - 🏎⛽ Big Fan of: <a href="https://mercedesamgf1.com">Mercedes-AMG Petronas F1 Team</a>, <a href="https://astonmartinf1.com">Aston Martin Cognizant Formula 1 Team</a>, Sebastian Vettel and George Russell.
-- 🏎🔋 Big Fan of: <a href="https://motorsports.porsche.com/international/en/category/formulae">Tag Heuer Porsche Formula E</a>, <a href="https://www.andrettiautosport.com/">Avalanche Andretti Formula E"</a> and Jake Dennis.
+- 🏎🔋 Big Fan of: <a href="https://motorsports.porsche.com/international/en/category/formulae">Tag Heuer Porsche Formula E</a>, <a href="https://www.andrettiautosport.com/">Avalanche Andretti Formula E</a> and Jake Dennis.
 
 <!-- Social Networks -->
 <h3 align="left">Social Networks:</h3>
