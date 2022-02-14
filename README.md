@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hey 👋, I'm Thomas Chiocchetti</h1>
-<h3 align="center">Student & Co-Founder</h1>
+<h3 align="center">Student & Founder</h1>
 
 <!-- Bio -->
 - 📚 Computer Science and Telecommunications student at <a href="http://iisgalilei.eu">IISS Galileo Galilei</a>.
