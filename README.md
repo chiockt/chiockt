@@ -28,7 +28,7 @@
 <!-- Useful Links -->
 <div class="useful-links">
 <h3 align="center">Useful Links:</h3>
-<p align="center"><a href="https://thomaschiocchetti.de?utm_source=github&utm_medium=link&utm_campaign=social-campaign">Website</a> • <a href="mailto:info@thomaschiocchetti.de">E-Mail</a> • <a href="https://thomaschiocchetti.de/landing">Landing</a></p>
+<p align="center"><a href="https://thomaschiocchetti.de?utm_source=github&utm_medium=link&utm_campaign=social-campaign">Website</a> • <a href="mailto:info@thomaschiocchetti.de">E-Mail</a> • <a href="https://thomaschiocchetti.de/landing">Landing</a> • <a href="https://thomaschiocchetti.de/en/europass.pdf">Curriculum Vitae</a></p>
 </div>
 <!-- Collaborations -->
 <h3 align="center">Collaborations:</h3>
