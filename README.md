@@ -1,11 +1,11 @@
 <!-- Header -->
 <h1 align="center">Hey 👋, I'm Thomas Chiocchetti</h1>
-<h3 align="center">Student & Founder</h1>
+<h3 align="center">Computer Science Student, Founder and Project Manager at Digital Ladin</h1>
 
 <!-- Bio -->
 - 📚 Computer Science and Telecommunications student at <a href="http://iisgalilei.eu">IISS Galileo Galilei</a>.
-- 🌱 Founder of <a href="https://digital-ladin.com?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">Digital Ladin&trade;</a>.
-- 💼 Digital Manager as volunteer at <a href="https://sartoriatelierfc.com?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">Atelier Sartoriale Chiocchetti Federica</a>.
+- 🌱 Founder and Project Manager at <a href="https://digital-ladin.com?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">Digital Ladin</a>.
+- 💼 Brand Specialist at <a href="https://sartoriatelierfc.com?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">Atelier Sartoriale Chiocchetti Federica</a>.
 - ⚡ Interested about motorsports, expecially the <a href="https://formula1.com" target="_blank">FIA Formula 1® World Championship</a> and the <a href="https://fiaformulae.com" target="_blank">ABB FIA Formula E World Championship</a>. Also interested in personal finance.
 - 🏎⛽ Big Fan of: <a href="https://mercedesamgf1.com">Mercedes-AMG Petronas F1 Team</a>, <a href="https://astonmartinf1.com">Aston Martin Aramco Cognizant Formula 1 Team</a>, Sebastian Vettel, George Russell and Liam Lawson.
 - 🏎🔋 Big Fan of: <a href="https://motorsports.porsche.com/international/en/category/formulae">Tag Heuer Porsche Formula E</a>, <a href="https://www.andrettiautosport.com/">Avalanche Andretti Formula E</a> and Jake Dennis.
