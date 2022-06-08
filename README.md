@@ -31,4 +31,4 @@
 </div>
 <!-- Collaborations -->
 <h3 align="center">Collaborations:</h3>
-<p align="center"><a href="https://digital-ladin.com?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">Digital Ladin&trade;</a> • <a href="https://sartoriatelierfc.com?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">Atelier Sartoriale Chiocchetti Federica</a> • <a href="https://tommasozanoner.eu?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">tommasozanoner.eu</a></p>
+<p align="center"><a href="https://digital-ladin.com?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">Digital Ladin</a> • <a href="https://sartoriatelierfc.com?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">Atelier Sartoriale Chiocchetti Federica</a>
