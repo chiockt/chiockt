@@ -13,7 +13,6 @@
 <h3 align="left">Social Networks:</h3>
 <a href="https://www.instagram.com/thomaschiocchetti" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-1024.png" width="50px" height="50px"></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/chiocchetti" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" width="50px" height="50px"></a>&nbsp;&nbsp;
-<a href="https://twitch.tv/ichbinthomasss" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/343_Twitch_logo-1024.png" width="50px" height="50px"></a>&nbsp;&nbsp;
 <a href="https://t.me/thomaschiocchetti" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-1024.png" width="50px" height="50px"></a>
 
 <!-- Github related stuff -->
