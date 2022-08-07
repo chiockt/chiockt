@@ -1,13 +1,13 @@
 <!-- Header -->
 <h1 align="center">Hey 👋, I'm Thomas Chiocchetti</h1>
-<h3 align="center">Computer Science Student and Founder at Digital Ladin</h1>
+<h3 align="center">Digital Ladin Founder & Computer Science Student</h1>
 
 <!-- Bio -->
-- 📚 Computer Science and Telecommunications student at <a href="http://iisgalilei.eu">IISS Galileo Galilei</a>.
 - 🌱 Founder at <a href="https://digital-ladin.com">Digital Ladin</a>.
-- 💼 Tailor and brand specialist as volunteer at <a href="https://sartoriatelierfc.com">Atelier Sartoriale Chiocchetti Federica</a>.
-- ⚡ Motorsports passionate, expecially Formula 1&reg; and ABB Formula E.
-- 🏎 Big fan of: Mercedes-AMG Petronas F1 Team ❤, Avalanche Andretti Formula E, Sebastian Vettel, George Russell, Liam Lawson and Jake Dennis.
+- 📚 Computer Science and Telecommunications student at <a href="http://iisgalilei.eu">IISS Galileo Galilei</a>.
+- 💼 Tailor as volunteer at <a href="https://sartoriatelierfc.com">Atelier Sartoriale Chiocchetti Federica</a>.
+- ⚡ Motorsports passionate & F1 Addicted
+- 🏎 Big fan of: Mercedes-AMG Petronas F1 Team, Sebastian Vettel, George Russell and Liam Lawson.
 
 <!-- Social Networks -->
 <h3 align="left">Social Networks:</h3>
@@ -26,8 +26,8 @@
 <!-- Useful Links -->
 <div class="useful-links">
 <h3 align="center">Useful Links:</h3>
-<p align="center"><a href="https://thomaschiocchetti.de?utm_source=github&utm_medium=link&utm_campaign=social-campaign">Website</a> • <a href="mailto:info@thomaschiocchetti.de">E-Mail</a> • <a href="https://thomaschiocchetti.de/landing">Landing</a></p>
+<p align="center"><a href="https://thomaschiocchetti.de?utm_source=github&utm_medium=link&utm_campaign=social-campaign">Website</a> | <a href="mailto:info@thomaschiocchetti.de">E-Mail</a> | <a href="https://thomaschiocchetti.de/landing">Landing</a></p>
 </div>
 <!-- Collabs -->
 <h3 align="center">Collaborations:</h3>
-<p align="center"><a href="https://digital-ladin.com?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">Digital Ladin</a> • <a href="https://sartoriatelierfc.com?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">Atelier Sartoriale Chiocchetti Federica</a>
+<p align="center"><a href="https://digital-ladin.com?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">Digital Ladin - #madeinladinia</a> | <a href="https://sartoriatelierfc.com?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">Atelier Sartoriale Chiocchetti Federica</a>
