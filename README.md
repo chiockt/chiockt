@@ -3,7 +3,7 @@
 <h3 align="center">Digital Ladin Founder & Computer Science Student</h1>
 
 <!-- Bio -->
-- 🌱 Founder at <a href="https://digital-ladin.com">Digital Ladin</a>.
+- 🌱 Founder at <a href="https://digital-ladin.com">Digital Ladin - #madeinladinia</a>.
 - 📚 Computer Science and Telecommunications student at <a href="http://iisgalilei.eu">IISS Galileo Galilei</a>.
 - 💼 Tailor as volunteer at <a href="https://sartoriatelierfc.com">Atelier Sartoriale Chiocchetti Federica</a>.
 - ⚡ Motorsports passionate & F1 Addicted
