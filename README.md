@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Griaß di 👋, I'm Thomas Chiocchetti</h1>
+<h1 align="center">Servus 👋, I'm Thomas Chiocchetti</h1>
 <h3 align="center">Digital Ladin Founder & Computer Science Student</h1>
 
 <!-- Bio -->
