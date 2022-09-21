@@ -1,6 +1,7 @@
 <!-- Header -->
-<h1 align="center">Servus 👋, I'm Thomas Chiocchetti</h1>
-<h3 align="center">Digital Ladin Founder & Computer Science Student</h1>
+<h1 align="center">Servus 👋</h1>
+<h3 align="center">I'm Thomas Chiocchetti</h3>
+<h4 align="center">Digital Ladin Founder & Computer Science Student</h4>
 
 <!-- Bio -->
 - 🌱 Founder at <a href="https://digital-ladin.com">Digital Ladin - #madeinladinia</a>.
