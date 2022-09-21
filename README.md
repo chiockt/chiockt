@@ -6,10 +6,8 @@
 <!-- Bio -->
 - 🌱 Founder at <a href="https://digital-ladin.com">Digital Ladin - #madeinladinia</a>.
 - 📚 Computer Science and Telecommunications student at <a href="http://iisgalilei.eu">IISS Galileo Galilei</a>.
-- 💼 Tailor as volunteer at <a href="https://sartoriatelierfc.com">Atelier Sartoriale Chiocchetti Federica</a>.
 - ⚡ Motorsports passionate & F1 Addicted
 - 🏎 Big fan of: Mercedes-AMG Petronas F1 Team, Sebastian Vettel, George Russell and Liam Lawson.
-- 🌐 Languages lover: currently learning german, english and soon dutch.
 
 <!-- Social Networks -->
 <h3 align="left">Social Networks:</h3>
