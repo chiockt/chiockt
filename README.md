@@ -4,10 +4,10 @@
 <h4 align="center">Digital Ladin Founder & Computer Science Student</h4>
 
 <!-- Bio -->
+- Stolzer Südtiroler
 - 🌱 Founder at <a href="https://digital-ladin.com">Digital Ladin - #madeinladinia</a>.
 - 📚 Computer Science and Telecommunications student at <a href="http://iisgalilei.eu">IISS Galileo Galilei</a>.
-- ⚡ Motorsports passionate & F1 Addicted
-- 🏎 Big fan of: Mercedes-AMG Petronas F1 Team, Sebastian Vettel, George Russell and Liam Lawson.
+- ⚡ Motorsports passionate
 
 <!-- Social Networks -->
 <h3 align="left">Social Networks:</h3>
