@@ -1,7 +1,6 @@
 <!-- Header -->
-<h1 align="center">Servus 👋</h1>
-<h3 align="center">I'm Thomas Chiocchetti</h3>
-<h4 align="center">Digital Ladin Founder & Computer Science Student</h4>
+<h1 align="center">Servus 👋<br>I'm Thomas Chiocchetti</h1>
+<h3 align="center">Computer Science Student & Digital Ladin - #madeinladinia Founder.</h3>
 
 <!-- Bio -->
 - Stolzer Südtiroler
@@ -26,7 +25,7 @@
 <!-- Useful Links -->
 <div class="useful-links">
 <h3 align="center">Useful Links:</h3>
-<p align="center"><a href="https://thomaschiocchetti.de?utm_source=github&utm_medium=link&utm_campaign=social-campaign">Website</a> | <a href="mailto:info@thomaschiocchetti.de">E-Mail</a> | <a href="https://thomaschiocchetti.de/landing">Landing</a></p>
+<p align="center"><a href="https://thomaschiocchetti.de?utm_source=github&utm_medium=link&utm_campaign=social-campaign">Website</a> | <a href="mailto:info@thomaschiocchetti.de">E-Mail</a>
 </div>
 <!-- Collabs -->
 <h3 align="center">Collaborations:</h3>
