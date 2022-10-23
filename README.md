@@ -19,7 +19,7 @@
 <div class="github-related-things">
 <h3 align="left">Stats:</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IchbinThomasss)](https://github.com/anuraghazra/github-readme-stats) &nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IchbinThomasss&show_icons=true&locale=en&layout=compact" alt="IchbinThomasss"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiockt)](https://github.com/anuraghazra/github-readme-stats) &nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiockt&show_icons=true&locale=en&layout=compact" alt="chiockt"/>
 </div>
 <br><br><br><br><br><br><br>
 <!-- Useful Links -->
