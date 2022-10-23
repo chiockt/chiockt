@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Servus 👋<br>I'm Thomas Chiocchetti</h1>
-<h3 align="center">Computer Science Student & Digital Ladin - #madeinladinia Founder.</h3>
+<h3 align="center">Computer Science Student & Digital Ladin Founder.</h3>
 
 <!-- Bio -->
 - Stolzer Südtiroler
@@ -29,4 +29,4 @@
 </div>
 <!-- Collabs -->
 <h3 align="center">Collaborations:</h3>
-<p align="center"><a href="https://digital-ladin.com?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">Digital Ladin - #madeinladinia</a> | <a href="https://sartoriatelierfc.com?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">Atelier Sartoriale Chiocchetti Federica</a>
+<p align="center"><a href="https://digital-ladin.com?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">Digital Ladina</a> | <a href="https://sartoriatelierfc.com?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">Atelier Sartoriale Chiocchetti Federica</a>
