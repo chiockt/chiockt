@@ -4,7 +4,7 @@
 
 <!-- Bio -->
 - Stolzer Südtiroler
-- 🌱 Founder at <a href="https://digital-ladin.com">Digital Ladin - #madeinladinia</a>.
+- 🌱 Founder at <a href="https://digital-ladin.com">Digital Ladin</a>.
 - 📚 Computer Science and Telecommunications student at <a href="http://iisgalilei.eu">IISS Galileo Galilei</a>.
 - ⚡ Motorsports passionate
 
@@ -29,4 +29,4 @@
 </div>
 <!-- Collabs -->
 <h3 align="center">Collaborations:</h3>
-<p align="center"><a href="https://digital-ladin.com?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">Digital Ladina</a> | <a href="https://sartoriatelierfc.com?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">Atelier Sartoriale Chiocchetti Federica</a>
+<p align="center"><a href="https://digital-ladin.com?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">Digital Ladin</a> | <a href="https://sartoriatelierfc.com?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">Atelier Sartoriale Chiocchetti Federica</a>
