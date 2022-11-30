@@ -3,7 +3,6 @@
 <h3 align="center">Computer Science Student & Digital Ladin Founder.</h3>
 
 <!-- Bio -->
-- Stolzer Südtiroler
 - 🌱 Founder at <a href="https://digital-ladin.com">Digital Ladin</a>.
 - 📚 Computer Science and Telecommunications student at <a href="http://iisgalilei.eu">IISS Galileo Galilei</a>.
 - ⚡ Motorsports passionate
