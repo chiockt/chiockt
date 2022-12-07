@@ -5,7 +5,7 @@
 <!-- Bio -->
 - 🌱 Founder at <a href="https://digital-ladin.com">Digital Ladin</a>.
 - 📚 Computer Science and Telecommunications student at <a href="http://iisgalilei.eu">IISS Galileo Galilei</a>.
-- ⚡ Motorsports passionate
+- 🏎 Motorsports passionate
 
 <!-- Social Networks -->
 <h3 align="left">Social Networks:</h3>
