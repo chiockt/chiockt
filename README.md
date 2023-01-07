@@ -1,6 +1,5 @@
 <!-- Header -->
 <h1 align="center">Servus 👋<br>I'm Thomas Chiocchetti</h1>
-<h3 align="center">Computer Science Student & Digital Ladin Founder.</h3>
 
 <!-- Bio -->
 - 📚 Computer Science and Telecommunications student at <a href="http://iisgalilei.eu">IISS Galileo Galilei</a>.
