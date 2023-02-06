@@ -17,12 +17,3 @@
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiockt&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-<br><br><br><br><br><br><br>
-<!-- Useful Links -->
-<div class="useful-links">
-<h3 align="center">Useful Links:</h3>
-<p align="center"><a href="https://thomaschiocchetti.de?utm_source=github&utm_medium=link&utm_campaign=social-campaign">Website</a> | <a href="mailto:info@thomaschiocchetti.de">E-Mail</a>
-</div>
-<!-- Collabs -->
-<h3 align="center">Collaborations:</h3>
-<p align="center"><a href="https://sartoriatelierfc.com?utm_source=thomaschiocchetti_github&utm_medium=link&utm_campaign=collaborations-campaign">Atelier Sartoriale Chiocchetti Federica</a>
