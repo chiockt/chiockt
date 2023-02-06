@@ -12,12 +12,11 @@
 <a href="https://t.me/thomaschiocchetti" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-1024.png" width="50px" height="50px"></a>
 
 <!-- Github related stuff -->
-<br>
-<div class="github-related-things">
-<h3 align="left">Stats:</h3>
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiockt)](https://github.com/anuraghazra/github-readme-stats) &nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiockt&show_icons=true&locale=en&layout=compact" alt="chiockt"/>
-</div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiockt&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 <br><br><br><br><br><br><br>
 <!-- Useful Links -->
 <div class="useful-links">
