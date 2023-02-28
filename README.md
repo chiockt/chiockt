@@ -54,6 +54,7 @@ Per piajer cern n lengaz - Bitte wählen Sie eine Sprache - Scegli una lingua - 
 <!-- Github related stuff -->
 <details>
   <summary>:zap: GitHub Stats</summary>
+
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiockt&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 <!-- Social Networks -->
